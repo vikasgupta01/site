@@ -84,13 +84,13 @@ a {
 
 .bottom-cloud {
   position: absolute;
-  left: 150px;
+  left: 10%;
   bottom: 440px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 150px;
+  right: 10%;
   top: 160px;
 }
 
